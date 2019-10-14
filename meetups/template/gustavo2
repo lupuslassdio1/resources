@@ -1,0 +1,4 @@
+a = int(input('Valor1:')
+b = int(input('Valor2:')
+if a => 0:
+  print(a-b)
